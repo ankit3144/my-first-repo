@@ -1,0 +1,16 @@
+x = 10
+y = 20 
+
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)#divison
+print(x//y)#floor division
+print(x%y)#modules - remainer
+print(x**y)
+
+"""
+modules % 
+// floor division- remove decimal
+power **
+"""
